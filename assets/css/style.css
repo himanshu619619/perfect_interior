@@ -1360,3 +1360,10 @@ p.form-message.error {
   .back-to-top:hover {
     color: #EB3656;
     background-color: #fff; }
+
+
+  .sub_services{background: linear-gradient(45deg, #ea3851, #f17087);
+    color: white;
+    -webkit-text-fill-color: white;
+    border-radius: 20px;
+    padding: 43px;}

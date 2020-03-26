@@ -22,24 +22,24 @@
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-8">
                     <div class="single-services text-center mt-30 wow fadeInUp" data-wow-duration="1.5s" data-wow-delay="0.8s">
-                        <div class="services-icon">
+                    <a href="design_consultancy.php">     <div class="services-icon">
                             <i class="lni-blackboard"></i>
                         </div>
                         <div class="services-content mt-15">
                             <h4 class="services-title">Design Consultancy</h4>
                             <p class="mt-20"></p>
-                        </div>
+                        </div></a>
                     </div> <!-- single services -->
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-8">
                     <div class="single-services text-center mt-30 wow fadeInUp" data-wow-duration="1.5s" data-wow-delay="1.2s">
-                        <div class="services-icon">
+                    <a href="residential_design.php">  <div class="services-icon">
                             <i class="lni-home"></i>
                         </div>
                         <div class="services-content mt-15">
                             <h4 class="services-title">Residential Design</h4>
                             <p class="mt-20"></p>
-                        </div>
+                        </div></a>
                     </div> <!-- single services -->
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-8">
