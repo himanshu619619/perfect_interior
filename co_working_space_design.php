@@ -5,7 +5,7 @@
             <div class="col-lg-6">
                 <div class="about-image mt-50 clearfix">
                     <div class=" ">
-                        <img src="assets/images/design_consultancy.png" alt="About" style="filter: drop-shadow(2px 4px 6px black);">
+                        <img src="assets/images/co_working.jpeg" alt="About" style="filter: drop-shadow(2px 4px 6px black);">
                     </div> <!-- single image -->
 
                  
@@ -13,9 +13,11 @@
             </div>
             <div class="col-lg-6">
                 <div class="about-content mt-40">
-                    <h1 class="about-welcome ">Design Consultancy Service</h1>
-                    <p class="mt-25">If you need explicit comments on the aesthetics and functionality of your products, projects and services, or if you are seeking to work with the World’s top designers, artists and architects, the A’ Design Award and Competition offers Design Consultancy Service in collab with World Design Consortium. .
-                        <br><br> The service has four different levels: 1) In House Design Consultancy Service, 2) Specific Design Consultancy Service 3) Professional Design Consultancy Service 4) Advanced Design Consultancy Service. Regardless of what type of design consultancy you would need, first, we suggest you order our In House Design Consultancy service so that we can establish a reference point and we could develop a good understanding of your needs, Alternatively you might consider ordering Preliminary Design Consultancy Service if you have no idea where to start, this is a managed service for design consultancy; i.e. the consultancy for design consultancy. 
+                    <h1 class="about-welcome ">
+Co-working Space Design</h1>
+                    <p class="mt-25">Coworking space for interior designers. Challenge your inner creativity in the ideal workspace.
+Interior designing is fun, but a lot of hard work. A mix of creativity, mathematics and a number of other disciplines, the field requires utmost and undivided attention.  Designers need a calm and quiet environment, replete with the latest technology so they can work in silence. Since interior designers ultimately dictate the decor of the place you live or work in, it is imperative that they have nothing but the best resources at their disposal.
+                        <br><br> Coworking spaces for interior designers are ideal because they foster a creative atmosphere for those working in the field. Since the world is moving away from traditional office spaces, coworking spaces are being preferred by working individuals as well as large companies. Whether you are an independent interior designer or are attached to a firm,  here’s why you should be looking up a coworking space right now.
 
 
 
@@ -60,8 +62,8 @@
             </div>
         </div>
     </div>
-    <section class="about-area pt-80">
-    <img src="assets/images/design2.jpg" alt="" style="    filter: drop-shadow(2px 4px 6px black);">
+    <section class="about-area pt-80 text-center">
+    <img src="assets/images/co_working2.jpg" alt="" style="    filter: drop-shadow(2px 4px 6px black);">
 
     </section>
 

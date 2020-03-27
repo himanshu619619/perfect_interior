@@ -166,6 +166,9 @@
                                         <a class="page-scroll" href="services.php">Services</a>
                                     </li>
                                     <li class="nav-item">
+                                        <a class="page-scroll" href="solutions.php"> Solutions </a>
+                                    </li>
+                                    <li class="nav-item">
                                         <a class="page-scroll" href="index.php#project">Projects</a>
                                     </li>
                                  

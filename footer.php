@@ -8,30 +8,7 @@
                                 <img src="assets/images/logo.png" alt="Logo">
                             </a>
                       
-                            <ul class="footer-social mt-20">
-                                <li><a href="https://www.facebook.com/perfectinterior01"><i class="lni-facebook-filled"></i></a></li>
-                               
-                                <li><a href="https://www.instagram.com/perfectinterior01/"><i class="lni-instagram"></i></a></li>
-                            </ul>
-                        </div> <!-- footer logo -->
-                    </div>
-                    <div class="col-lg-3 col-md-4 col-sm-4">
-                        <div class="footer-link mt-45">
-                            <div class="f-title">
-                                <h4 class="title">Essential Links</h4>
-                            </div>
-                            <ul class="mt-15">
-                                <li><a href="#">About</a></li>
-                                <li><a href="#">Projects</a></li>
-                                <li><a href="#">Support</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-4 col-sm-4">
-                        <div class="footer-logo mt-50">
-                            <div class="f-title">
-                                <h4 class="title">Contact Us</h4>
-                            </div>
+                           
                             <ul class="footer-info">
                                 <li>
                                     <div class="single-info">
@@ -54,6 +31,59 @@
                                     </div> 
                                 </li>
                               
+                            </ul>
+                            <ul class="footer-social mt-20">
+                                <li><a href="https://www.facebook.com/perfectinterior01"><i class="lni-facebook-filled"></i></a></li>
+                               
+                                <li><a href="https://www.instagram.com/perfectinterior01/"><i class="lni-instagram"></i></a></li>
+                            </ul>
+                        </div> <!-- footer logo -->
+                    </div>
+                    <div class="col-lg-3 col-md-4 col-sm-4">
+                        <div class="footer-link mt-45">
+                            <div class="f-title">
+                                <h4 class="title">Our Services</h4>
+                            </div>
+                            <ul class="mt-15">
+                                <li><a href="interior.php">
+Interior Design</a></li>
+                                <li><a href="design_consultancy.php">
+Design Consultancy</a></li>
+                                <li><a href="residential_design.php">
+Residential Design</a></li>
+<li><a href="commercial_design.php">
+Commercial Design</a></li>
+                                <li><a href="hospitality_design.php">
+
+                                Hospitality Design</a></li>
+                                <li><a href="co_working_space_design.php">
+
+                                Co-working Space Design</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-4 col-sm-4">
+                        <div class="footer-link mt-50">
+                            <div class="f-title">
+                                <h4 class="title">Our Solutions</h4>
+                            </div>
+                            <ul class="mt-15">
+                                <li><a href="corporate.php">
+Corporates</a></li>
+                                <li><a href="education.php">
+Education</a></li>
+                                <li><a href="digital_signage.php">
+Digital Signage</a></li>
+
+<li><a href="home_automation.php">
+
+Home AV</a></li>
+                                <li><a href="live_streaming.php">
+
+                                Live Streaming</a></li>
+                                <li><a href="home_theatre.php">
+
+                                Home Theatre</a></li>
                             </ul>
                             
                         </div> 
