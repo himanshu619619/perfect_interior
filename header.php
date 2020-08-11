@@ -190,7 +190,7 @@
                                         <a class="page-scroll" href="index.php#project">Projects</a>
                                     </li>
                                  <li class="nav-item">
-                                        <a class="page-scroll" href="training">Training</a>
+                                        <a class="page-scroll" href="automation.php">Automation</a>
                                     </li>
                                     <li class="nav-item">
                                         <a class="page-scroll active" href="index#contact">Contact</a>
