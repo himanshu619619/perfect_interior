@@ -1,4 +1,7 @@
-<?php include 'header.php' ?>
+
+  <?php $title="Best Space design consultants in Dwarka, Gurgaon, Delhi, India | Perfect Interior";
+$Desc="Perfect Interior is Best Interior Designers in Dwarka , Interior designers in Delhi, Interior Designers in Gurgaon and Interior design companies in India, We offers Best Interior Designer and Home Interior decorators services with affordable prices.";
+?><?php include 'header.php' ?>
 
 
         <div class="header-banner d-flex align-items-center">
@@ -17,7 +20,7 @@
                 
                 <div class="floating_from">
 
-                <h3>Looking for Home Interiors?</h3>
+                <h3>Looking for Interior designer?</h3>
                 <form action="send_form_email.php" Method="POST" class="form-group">
                 <input type="text" name="name" class="form-control" placeholder="Your Name" required>
                 <input type="text" name="email" class="form-control" placeholder="Your Email" required>
@@ -54,10 +57,10 @@
                 <div class="col-lg-6">
                     <div class="about-content mt-45">
                         <h4 class="about-welcome">About Us </h4>
-                        <p class="mt-25">Perfect Interior company is one of the Best Interior Designers in Dwarka and Gurgaon. If want to hire the best interior designers in Delhi NCR then the first thing that you should contact us. Since many people today are searching for this kind of services, then we would help them to find the right one that would suit their needs. 
+                        <p class="mt-25">Perfect Interior company is one of the Best Interior Designers in Dwarka and Best interior designers in Gurgaon. If want to hire the Best Interior Designers in Delhi then the first thing that you should contact us. Since many people today are searching for this kind of services, then we would help them to find the right one that would suit their needs. 
                            <br><br>The job of interior designer requires one to have artistic eye, creative outlook and impeccable sense of taste. They have to be adept with modern materials and colors as well as new technologies like LED lighting or LCD. Apart from this, interior designers need to possess excellent communication skills and good professional manners. These are required to be honest and receptive to clients and workmates.
                            
-                            <br> <br> One of the biggest successful think about us that we have a deep understanding about interior design, architecture and related subjects. That is because we are primarily involved in designing interiors to houses, hotels, and other residential buildings. Our responsibilities are wider than those of an architect and actually this is our  calling. If you are looking interior decoration in Gurgaon and Delhi NCR then we can be a best option for you. We understand our client’s choice and taste with respect to design. <br> <br>
+                            <br> <br> One of the biggest successful think about us that we have a deep understanding about interior design, architecture and related subjects. That is because we are primarily involved in designing interiors to houses, hotels, and other residential buildings. Our responsibilities are wider than those of an architect and actually this is our calling. If you are looking Home interior designers in Gurgaon and Top interior designers in India then we can be a best option for you. We understand our client’s choice and taste with respect to design. <br> <br>
                             
                         </p>
                             
@@ -113,7 +116,7 @@
                             <img src="assets/images/project/p-2.jpg" alt="Project">
                         </div>
                         <div class="project-content">
-                            <a class="project-title" href="#">Home Interior Design</a>
+                            <a class="project-title" href="#">Office Interior Design</a>
                         </div>
                     </div>
                 </div>
@@ -123,7 +126,7 @@
                             <img src="assets/images/project/p-3.jpg" alt="Project">
                         </div>
                         <div class="project-content">
-                            <a class="project-title" href="#">Home Interior Design</a>
+                            <a class="project-title" href="#">Office Interior Design</a>
                         </div>
                     </div>
                 </div>
@@ -147,31 +150,12 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4">
-                    <div class="single-project">
-                        <div class="project-image">
-                            <img src="assets/images/project/p-2.jpg" alt="Project">
-                        </div>
-                        <div class="project-content">
-                            <a class="project-title" href="#">Home Interior Design</a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4">
-                    <div class="single-project">
-                        <div class="project-image">
-                            <img src="assets/images/project/p-4.jpg" alt="Project">
-                        </div>
-                        <div class="project-content">
-                            <a class="project-title" href="#">Home Interior Design</a>
-                        </div>
-                    </div>
-                </div>
+              
             </div>
         </div>
     </section>
 
-    <?php include 'other_solutions.php'; ?>
+    <?php include 'other-solutions.php'; ?>
 
     <section id="contact" class="contact-area pt-125 pb-130 gray-bg">
         <div class="container">

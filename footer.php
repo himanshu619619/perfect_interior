@@ -7,7 +7,9 @@
                             <a href="#">
                                 <img src="assets/images/logo.png" alt="Logo">
                             </a>
-                      
+                      <br>
+<strong>PERFECT INTERIOR </strong> <br>
+A unit of 7CONTINENTS INFOTECH
                            
                             <ul class="footer-info">
                                 <li>
@@ -17,6 +19,7 @@
                                         </div>
                                         <div class="info-content">
                                             <p>+91 96541 88876</p>
+                                            <p>+91 97181 25493</p>   
                                         </div>
                                     </div> <!-- single info -->
                                 </li>
@@ -45,20 +48,20 @@
                                 <h4 class="title">Our Services</h4>
                             </div>
                             <ul class="mt-15">
-                                <li><a href="interior.php">
+                                <li><a href="interior-designers">
 Interior Design</a></li>
-                                <li><a href="design_consultancy.php">
-Design Consultancy</a></li>
-                                <li><a href="residential_design.php">
+                                <li><a href="interior-decorator-in-gurgaon">
+Interior Decorator</a></li>
+                                <li><a href="residential-design">
 Residential Design</a></li>
-<li><a href="commercial_design.php">
+<li><a href="commercial-design.php">
 Commercial Design</a></li>
-                                <li><a href="hospitality_design.php">
+                                <li><a href="hospitality-design">
 
                                 Hospitality Design</a></li>
-                                <li><a href="co_working_space_design.php">
+                                <li><a href="architects">
 
-                                Co-working Space Design</a></li>
+                                Architects</a></li>
                             </ul>
                         </div>
                     </div>
@@ -68,20 +71,20 @@ Commercial Design</a></li>
                                 <h4 class="title">Our Solutions</h4>
                             </div>
                             <ul class="mt-15">
-                                <li><a href="corporate.php">
+                                <li><a href="corporate">
 Corporates</a></li>
-                                <li><a href="education.php">
+                                <li><a href="education">
 Education</a></li>
-                                <li><a href="digital_signage.php">
+                                <li><a href="digital-signage">
 Digital Signage</a></li>
 
-<li><a href="home_automation.php">
+<li><a href="home-automation">
 
 Home AV</a></li>
-                                <li><a href="live_streaming.php">
+                                <li><a href="live-streaming">
 
                                 Live Streaming</a></li>
-                                <li><a href="home_theatre.php">
+                                <li><a href="home-theatre">
 
                                 Home Theatre</a></li>
                             </ul>
@@ -124,6 +127,22 @@ Home AV</a></li>
                                             
 <p><strong>Rohtak: </strong> Unit No.- 166, Agro Mall, Sector 14
 Rohtak, Haryana 124001</p>
+                                        </div>
+                                    </div> <!-- single info -->
+                                </li>
+                                 <li>
+                                    <div class="single-info">
+                                        <div class="info-icon">
+                                            <i class="lni-map"></i>
+                                        </div>
+                                        <div class="info-content">
+                                            
+<p><strong>Mumbai: </strong>Ellam Mansion 
+Office No 17,
+Nishanpada 
+Dongri 
+Bhendi Bazaar, 
+Mumbai- 400009</p>
                                         </div>
                                     </div> <!-- single info -->
                                 </li>

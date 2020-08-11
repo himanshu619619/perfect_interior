@@ -1,10 +1,17 @@
 
+
+RewriteCond %{REQUEST_FILENAME}.php -f
+RewriteRule !.*\.php$ %{REQUEST_FILENAME}.php [QSA,L]
 RewriteOptions inherit
+
+
 <IfModule mod_rewrite.c>
 RewriteEngine On
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteRule . index.php [L]
+RewriteCond %{HTTP_HOST} www.perfectinterior.in [NC]
+RewriteRule ^(.*)$ https://perfectinterior.in/$1 [L,R=301]
 </IfModule>
 
 # BEGIN cPanel-generated php ini directives, do not edit

@@ -4,14 +4,32 @@
 <head><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 
     <!--====== Required meta tags ======-->
-        <title>Top Best Interior Designers in Dwarka, gurgaon, Delhi, India | Interior decorators</title>
+    <title><?php echo $title; ?></title>
+<meta name="title" content="<?php echo $title; ?>">
+<meta name="description" content="<?php echo $Desc; ?>">
+  <meta name="keywords" content="<?php echo $keywords; ?>">      
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <meta name="description" content="Perfect Interior is a top best Interior Designers in Dwarka, gurgaon, delhi and India, We offers Best Interior Designer and Home Interior decorators services with affordable prices.">
     <meta name="robots" content="index, follow"/>
-<link rel="canonical" href=" https://perfectinterior.in/"/>
-<meta name="keywords" content="Interior designer near me, Interior designer, Interior designer in dwarka, Interior designer in dwarka expressway, Interior decoration in gurgaon, Interior decoration near me , Interior decoration in dwarka, Interior decoration in dwarka expressway ">
-<link rel="alternate" href="https://perfectinterior.in/" hreflang="en-in"/>
+<link rel="canonical" href=" <?php echo "https://" . 
+          $_SERVER['HTTP_HOST'] . $_SERVER['PHP_SELF']; ?>"/>
+
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    
+    <!-- Open Graph / Facebook -->
+<meta property="og:type" content="website">
+<meta property="og:url" content="<?php echo  "https://" . 
+          $_SERVER['HTTP_HOST'] . $_SERVER['PHP_SELF']; ?>">
+<meta property="og:title" content="<?php echo $title; ?>">
+<meta property="og:description" content="<?php echo $Desc; ?>">
+<meta property="og:image" content="">
+
+<!-- Twitter -->
+<meta property="twitter:card" content="summary_large_image">
+<meta property="twitter:url" content="<?php echo  "https://" . 
+          $_SERVER['HTTP_HOST'] . $_SERVER['PHP_SELF']; ?>">
+<meta property="twitter:title" content="<?php echo $title; ?>">
+<meta property="twitter:description" content="<?php echo $Desc; ?>">
+<meta property="twitter:image" content="">
 
     <!--====== Title ======-->
 
@@ -96,7 +114,7 @@
 
 </style>
 </head>
-
+    <a href="index#contact"><div style="position:fixed; left:-3.5em; top:40%;  transform: rotate(-90deg);" class="main-btn sidebar"> Contact Us </div></a>
 <body>
 
     <!--====== PRELOADER PART START ======-->
@@ -156,25 +174,28 @@
 
                             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                                 <ul id="nav" class="navbar-nav ml-auto">
-                                    <li class="nav-item active">
-                                        <a class="page-scroll" href="index.php">Home</a>
+                                    <!--<li class="nav-item active">-->
+                                    <!--    <a class="page-scroll" href="index.php">Home</a>-->
+                                    <!--</li>-->
+                                    <li class="nav-item">
+                                        <a class="page-scroll" href="about-us">About</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a class="page-scroll" href="about-us.php">About</a>
+                                        <a class="page-scroll" href="services">Services</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a class="page-scroll" href="services.php">Services</a>
-                                    </li>
-                                    <li class="nav-item">
-                                        <a class="page-scroll" href="solutions.php"> Solutions </a>
+                                        <a class="page-scroll" href="solutions"> Solutions </a>
                                     </li>
                                     <li class="nav-item">
                                         <a class="page-scroll" href="index.php#project">Projects</a>
                                     </li>
-                                 
-                                    <li class="nav-item">
-                                        <a class="page-scroll" href="index.php#contact">Contact</a>
+                                 <li class="nav-item">
+                                        <a class="page-scroll" href="training">Training</a>
                                     </li>
+                                    <li class="nav-item">
+                                        <a class="page-scroll active" href="index#contact">Contact</a>
+                                    </li>
+                                    
                                 </ul> <!-- navbar nav -->
                             </div>
                             <div class="navbar-btn ml-20 d-none d-sm-block">
@@ -188,3 +209,6 @@
 <!-- header banner -->
 
     </header>
+    
+
+    
